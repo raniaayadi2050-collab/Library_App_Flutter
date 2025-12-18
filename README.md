@@ -25,16 +25,6 @@ A Flutter-based Library App featuring **Firebase Authentication** and **Firestor
 * Firestore database for storing users, books, and categories
 * Real-time updates and data validation
 
-## Screenshots
-
-| Login Screen                                  | Signup Screen                                   | Home Screen                                 |
-| --------------------------------------------- | ----------------------------------------------- | ------------------------------------------- |
-| ![Login](assets/screenshots/login_screen.png) | ![Signup](assets/screenshots/signup_screen.png) | ![Home](assets/screenshots/home_screen.png) |
-
-| Book Details                                                | Loaned Book Details                                                       |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ![Book Details](assets/screenshots/book_details_screen.png) | ![Loaned Book Details](assets/screenshots/book_details_loaned_screen.png) |
-
 ## Installation
 
 1. Clone the repository:
@@ -101,10 +91,3 @@ lib/
 ## License
 
 MIT License
-
----
-
-**Developed by Louay Amor**
-
-* GitHub: [https://github.com/louayamor](https://github.com/louayamor)
-* LinkedIn: [https://www.linkedin.com/in/louayamor](https://www.linkedin.com/in/louayamor)
